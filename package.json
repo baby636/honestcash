@@ -79,13 +79,13 @@
     "ui-router": "^1.0.0-alpha.3"
   },
   "devDependencies": {
-    "@commitlint/cli": "^7.5.2",
+    "@commitlint/cli": "^9.1.2",
     "@commitlint/config-angular": "^7.5.0",
     "@commitlint/config-conventional": "^7.5.0",
     "@types/jasmine": "^3.3.12",
     "css-loader": "^0.27.3",
     "gulp": "^4.0.0",
-    "gulp-minify": "0.0.15",
+    "gulp-minify": "3.0.0",
     "gulp-ng-annotate": "^2.0.0",
     "gulp-uglify": "^2.0.1",
     "html-loader": "^0.4.5",
