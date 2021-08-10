@@ -7,7 +7,7 @@
     "@types/angular": "^1.6.53",
     "@types/angular-ui-router": "^1.1.40",
     "@types/jquery": "^3.3.29",
-    "angular": "^1.6.1",
+    "angular": "^1.8.0",
     "angular-ui-router": "^0.3.2",
     "angularjs": "0.0.1",
     "async": "^2.6.1",
