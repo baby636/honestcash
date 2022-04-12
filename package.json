@@ -35,7 +35,7 @@
     "fb": "^2.0.0",
     "find-hashtags": "^1.0.0",
     "font-awesome": "^4.7.0",
-    "forever": "^0.15.3",
+    "forever": "^4.0.0",
     "fs": "^0.0.2",
     "get-img-src": "^1.0.0",
     "gm": "^1.18.1",
