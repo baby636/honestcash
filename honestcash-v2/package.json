@@ -20,7 +20,9 @@
     "build:ssr:local": "npm run transfer-libs && npm run build:client-and-server-bundles:local && npm run compile:server",
     "build:client-and-server-bundles:prod": "ng build --prod --base-href /v2/ --deploy-url /v2/ && ng run honestcash-v2:server:production",
     "build:client-and-server-bundles:dev": "ng build --configuration development --base-href /v2/ --deploy-url /v2/ && ng run honestcash-v2:server:development",
-    "build:client-and-server-bundles:local": "ng build --configuration development && ng run honestcash-v2:server:development"
+    "build:client-and-server-bundles:local": "ng build --configuration development && ng run honestcash-v2:server:development",
+    "prepublish": "npm run snyk-protect",
+    "snyk-protect": "snyk-protect"
   },
   "private": true,
   "dependencies": {
@@ -60,7 +62,8 @@
     "rxjs": "~6.3.3",
     "simple-bitcoin-wallet": "0.0.7",
     "tslib": "^1.9.0",
-    "zone.js": "~0.8.26"
+    "zone.js": "~0.8.26",
+    "@snyk/protect": "latest"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.11.0",
@@ -91,5 +94,6 @@
     "tslint": "~5.11.0",
     "typescript": "~3.1.6",
     "webpack-cli": "^3.1.0"
-  }
+  },
+  "snyk": true
 }
