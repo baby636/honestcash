@@ -67,7 +67,7 @@
     "@angular/cli": "~7.1.2",
     "@angular/compiler-cli": "~7.1.0",
     "@angular/language-service": "^7.1.4",
-    "@editorjs/editorjs": "^2.14.0",
+    "@editorjs/editorjs": "^2.26.0",
     "@editorjs/embed": "^2.2.1",
     "@editorjs/header": "^2.2.4",
     "@editorjs/image": "^2.3.1",
