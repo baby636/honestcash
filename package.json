@@ -84,7 +84,7 @@
     "@commitlint/config-conventional": "^7.5.0",
     "@types/jasmine": "^3.3.12",
     "css-loader": "^0.27.3",
-    "gulp": "^4.0.0",
+    "gulp": "^5.0.0",
     "gulp-minify": "0.0.15",
     "gulp-ng-annotate": "^2.0.0",
     "gulp-uglify": "^2.0.1",
