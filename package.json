@@ -35,7 +35,7 @@
     "fb": "^2.0.0",
     "find-hashtags": "^1.0.0",
     "font-awesome": "^4.7.0",
-    "forever": "^0.15.3",
+    "forever": "^3.0.4",
     "fs": "^0.0.2",
     "get-img-src": "^1.0.0",
     "gm": "^1.18.1",
@@ -106,7 +106,7 @@
     "typescript": "^3.4.1",
     "uglify-es-webpack-plugin": "^0.10.0",
     "uglifyjs-webpack-plugin": "^2.0.1",
-    "webpack": "^4.26.0",
+    "webpack": "^5.98.0",
     "webpack-cli": "^3.1.2"
   },
   "scripts": {
