@@ -54,7 +54,7 @@
     "lzutf8": "^0.5.5",
     "md5": "^2.2.1",
     "medium-editor": "^5.23.3",
-    "medium-editor-insert-plugin": "^2.5.0",
+    "medium-editor-insert-plugin": "^2.5.1",
     "medium-editor-markdown": "git+https://github.com/IonicaBizau/medium-editor-markdown.git",
     "method-override": "^3.0.0",
     "minify": "^4.0.3",
